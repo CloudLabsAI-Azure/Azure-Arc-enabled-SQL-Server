@@ -147,11 +147,11 @@ To adjust the zoom level for the environment page, click the **A↕ : 100%** ico
    
 1. Now you will see the Azure Portal Dashboard, click on **Resource groups** from the Navigate panel to see the resource groups.
 
-   ![](media/select-rg.png "Resource groups")
+   ![](media/English-AzureHome.png "Resource groups")
    
 1. Confirm that you have all resource groups present as shown below.
 
-   ![](media/sql-arc-rgs.png "Resource groups")
+   ![](media/RG-list.png "Resource groups")
    
 By completing these exercises, participants will gain the skills to connect and manage both standard and legacy on-premises SQL Server instances using Azure Arc, allowing for centralized oversight through Azure. They will learn to onboard SQL Server instances, including SQL Server 2016, and create a unified management dashboard using Azure Monitor, providing a comprehensive view and control over their entire SQL Server environment from a single interface.
 
@@ -165,6 +165,6 @@ Learner Support Contacts:
 
 Now, click on **Next>>** from the lower right corner to move on to the next page.
 
-![](media/lab-next.png)
+![](media/1-n.png)
 
 ### Happy Learning!!

@@ -40,7 +40,7 @@ In this task, we will run an Azure Resource Graph query to list all SQL Servers,
      
 2. In My Dashboard page, under **Resource graph grid tile** click on **Configure tile**.
  
-   ![](media/Ex2-Task1-Step6.png)  
+   ![](media/E3T3S2.png)  
      
 3. Minimize the Azure Portal Browser window. 
   
@@ -58,11 +58,11 @@ In this task, we will run an Azure Resource Graph query to list all SQL Servers,
      
 7. Copy the SQL query from the **Servers** file, and overwrite the sample query with the Servers query in the **Dashboard query section**. 
  
-   ![](media/Ex2-Task1-Step10.png)  
+   ![](media/E3T2S7.png)  
      
 8. Click on **Run query (1)**, you should see something like the below with the SQL Servers you installed, the **Azure Arc SQL Agent** as well as **Azure SQL Servers** ** (2)** running in Azure and update the tile in the dashboard by selecting **Update pinned part on dashboard (3)**. 
    
-   ![](media/az-ex3-1.png) 
+   ![](media/E3T2S8.png) 
           
 ## Task 3: Adding Resource Graph Grid Tiles - Server by location Chart
 
@@ -74,7 +74,7 @@ In this, you will add a Resource Graph Grid tile that visualizes the number of s
      
 2. In My Dashboard page, under **Resource graph chart tile** click on **Configure tile**. 
  
-   ![](media/Ex2-Task3-Step2.png)  
+   ![](media/E3T3S2.png)  
      
 3. Minimize the Azure Portal Browser window. 
   
@@ -92,17 +92,17 @@ In this, you will add a Resource Graph Grid tile that visualizes the number of s
       
 7. Copy the SQL query from the **Server by location Chart** file, and overwrite the sample query with the Servers query in the Dashboard query section.  
 
-   ![](media/dashquery.png)
+   ![](media/E3T3S7.png)
  
 8. Click on **Run query (1)** and update the tile to **Charts (2)** and select **Bar chart (3)** in the dashboard then select **Update pinned part on dashboard (4)**. 
      
-   ![](media/az-ex3-3.png)  
+   ![](media/E3T3S8.png)  
  
 9. Your dashboard should look like the one below. You can resize each individual tile and arrange them however you like on your new dashboard by clicking edit at the top  of the dashboard. 
      
-   ![](media/Ex2-Task3-Step8a.png) 
+   ![](media/E3T3S9i.png) 
      
-   ![](media/Ex2-Task3-Step8c.png)   
+   ![](media/E3T3S9ii.png)   
 
 10. This repo [https://azure.github.io/az-hop/user_guide/files.html](https://github.com/markm555/SQLSPOG) contains all the scripts. The scripts are regularly updated.
 
