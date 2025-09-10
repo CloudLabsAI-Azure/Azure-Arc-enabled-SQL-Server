@@ -15,7 +15,7 @@ In this lab, you will complete the following tasks:
  
 In this task, you are going to connect your on-prem Hyper-V SQL Server VM to Azure using Azure Arc, so it can be managed like a native Azure resource. The script installs the Azure Arc SQL extension to enable this connection.
 
-1. In the LabVM, click on **Azure Portal** from the desktop to launch Azure portal, from the search bar at the top search for **Azure Arc (1)** and then select **SQL   Server - Azure Arc** **(2)**.
+1. In the LabVM, click on **Azure Portal** from the desktop to launch Azure portal, from the search bar at the top search for **Azure Arc (1)** and then select **Azure Arc** **(2)**.
   
    ![](media/E1T1S1.png) 
     
