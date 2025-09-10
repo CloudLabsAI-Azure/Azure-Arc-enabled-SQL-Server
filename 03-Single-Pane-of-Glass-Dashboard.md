@@ -68,41 +68,45 @@ In this task, we will run an Azure Resource Graph query to list all SQL Servers,
 
 In this, you will add a Resource Graph Grid tile that visualizes the number of servers by their location in a chart format. It helps quickly identify the distribution of Azure and Arc-enabled servers across regions on the Azure dashboard.
  
-1. In **Dashboard** page, click on **Edit**, under **Tile Gallery** search for **resource graph chart tile (1)**, select **Resource graph chart tile (2)**, click on **Add (3)** then click on **Save (4)**. 
- 
+1. In the same **Dashboard** page, click on **Edit**.
+
+   ![](media/image(2).png) 
+
+2. Over the **Tile Gallery** window, search for **resource graph chart tile (1)**, select **Resource graph chart tile (2)**, click on **Add (3)** then click on **Save (4)**.
+
    ![](media/Ex2-Task3-Step1.png) 
      
-2. In **My Dashboard** page, under **Resource graph chart tile** click on **Configure tile**. 
+3. In **My Dashboard** page, under **Resource graph chart tile** click on **Configure tile**. 
  
    ![](media/E3T3S2.png)  
      
-3. Minimize the **Azure Portal** browser window. 
+4. Minimize the **Azure Portal** browser window. 
   
-4. From the LABVM, open File Explorer from the taskbar.
+5. From the LABVM, open File Explorer from the taskbar.
 
-5. Navigate to **`C:\LabFiles\Azure-Arc-enabled-SQL-Server-main\lab-files`**.
+6. Navigate to **`C:\LabFiles\Azure-Arc-enabled-SQL-Server-main\lab-files`**.
 
    ![](media/dir.png)
    
-6. Right-click the **Servers by location chart** file that contains the script block, and then select **Open with**. In the **How do you want to open this file?** window, choose **Notepad** and click **OK**.
+7. Right-click the **Servers by location chart** file that contains the script block, and then select **Open with**. In the **How do you want to open this file?** window, choose **Notepad** and click **OK**.
 
    ![](media/az-ex3-2.png)
 
    ![](media/Ex2-Task1-Step9b.png)   
       
-7. Copy the **SQL query** from the **Servers by location chart** file and replace the sample query in the **Dashboard Query** section with the query you copied.
+8. Copy the **SQL query** from the **Servers by location chart** file and replace the sample query in the **Dashboard Query** section with the query you copied.
  
-8. Click on **Run query (1)** and update the tile to **Charts (2)** and select **Bar chart (3)** in the dashboard then select **Update pinned part on dashboard (4)**. 
+9. Click on **Run query (1)** and update the tile to **Charts (2)** and select **Bar chart (3)** in the dashboard then select **Update pinned part on dashboard (4)**. 
      
    ![](media/E3T3S8.png)  
  
-9. Your dashboard should look similar to the one shown below. You can resize individual tiles and arrange them as needed by selecting Edit at the top of the dashboard.
+10. Your dashboard should look similar to the one shown below. You can resize individual tiles and arrange them as needed by selecting Edit at the top of the dashboard.
      
    ![](media/E3T3S9i.png) 
      
    ![](media/E3T3S9ii.png)   
 
-10. This repo [https://azure.github.io/az-hop/user_guide/files.html](https://github.com/markm555/SQLSPOG) contains all the scripts. The scripts are regularly updated.
+11. This repo [https://azure.github.io/az-hop/user_guide/files.html](https://github.com/markm555/SQLSPOG) contains all the scripts. The scripts are regularly updated.
 
 ## Summary
 
