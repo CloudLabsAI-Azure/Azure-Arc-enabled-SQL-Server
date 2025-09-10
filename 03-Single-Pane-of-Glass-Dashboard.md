@@ -44,23 +44,23 @@ In this task, we will run an Azure Resource Graph query to list all SQL Servers,
      
 3. Minimize the Azure Portal Browser window. 
   
-4. In the Windows Search bar from the LABVM, search for **File Explorer** and select it.
+4. In the Windows Search bar from the **LABVM**, search for **File Explorer** and select it.
 
 5. Navigate to `C:\LabFiles\Azure-Arc-enabled-SQL-Server-main\lab-files`. 
   
    ![](media/dir.png)  
   
-6. Open the **Servers** script file by right-clicking on the file, select **Open with**, then select **Notepad** and click on **OK**. 
+6. Right click on the file **Servers** which has a block of script, then select **Open with**. Choose **Notepad** and click on **OK**. 
  
    ![](media/Ex2-Task1-Step9a.png)
      
    ![](media/Ex2-Task1-Step9b.png)  
      
-7. Copy the SQL query from the **Servers** file, and overwrite the sample query with the Servers query in the **Dashboard query section**. 
+7. Copy the SQL query from the **Server by Location Chart file** and replace the sample query in the **Dashboard query** section with it.
  
    ![](media/E3T2S7.png)  
      
-8. Click on **Run query (1)**, you should see something like the below with the SQL Servers you installed, the **Azure Arc SQL Agent** as well as **Azure SQL Servers** ** (2)** running in Azure and update the tile in the dashboard by selecting **Update pinned part on dashboard (3)**. 
+8. Click on **Run query (1)**, you should see something like the below with the SQL Servers you installed, the **Azure Arc SQL Agent** as well as **Azure SQL Servers** **(2)** running in Azure and update the tile in the dashboard by selecting **Update pinned part on dashboard (3)**. 
    
    ![](media/E3T2S8.png) 
           
@@ -84,15 +84,13 @@ In this, you will add a Resource Graph Grid tile that visualizes the number of s
 
    ![](media/dir.png)
    
-6. Open the **Server by location Chart** script file by right-clicking on the file, select **Open with**, then select **Notepad** and click on **OK**.
+6. Right click on the file **Server by location Chart** script file, then select **Open with**. Choose **Notepad** and click on **OK**.
 
    ![](media/az-ex3-2.png)
 
    ![](media/Ex2-Task1-Step9b.png)   
       
-7. Copy the SQL query from the **Server by location Chart** file, and overwrite the sample query with the Servers query in the Dashboard query section.  
-
-   ![](media/E3T3S7.png)
+7. Copy the SQL query from the **Server by Location Chart file** and replace the sample query in the **Dashboard query** section with it.
  
 8. Click on **Run query (1)** and update the tile to **Charts (2)** and select **Bar chart (3)** in the dashboard then select **Update pinned part on dashboard (4)**. 
      

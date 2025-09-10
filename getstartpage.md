@@ -51,7 +51,7 @@ Welcome to your Azure Arc-enabled SQL Servers - Single Pane of Glass workshop! W
  
 Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
 
-![](media/guide.png)
+![](media/Labintro.png)
 
 ## Virtual Machine & Lab Guide
 
