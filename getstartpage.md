@@ -109,7 +109,7 @@ To adjust the zoom level for the environment page, click the **A↕ : 100%** ico
 
 1. If a **Welcome to Microsoft Azure** popup window appears, select **Cancel** to skip the tour.
 
-   ![](media/cancel.png)
+   ![](media/Welcome(Eng).png "Resource groups")
    
 ## Steps to Proceed with MFA Setup if "Ask Later" Option is Not Visible
 
