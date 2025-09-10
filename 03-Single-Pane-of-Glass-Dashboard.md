@@ -60,7 +60,7 @@ In this task, we will run an Azure Resource Graph query to list all SQL Servers,
  
    ![](media/E3T2S7.png)  
 
-8. Click **Run query (1)**. You should see the results, which include the **SQL Servers** you installed, the **Azure Arc SQL Agent**, and **Azure SQL Servers (2)** running in Azure. Then, update the tile on the dashboard by selecting **Update pinned part on dashboard (3)**.
+8. Click **Run query (1)**. You should see the results, which include the **SQL Servers** you installed, the **Azure Arc SQL Agent**, and **Azure SQL Servers (2)** running in Azure. In the dashboard, click **Update pinned part on dashboard (3)** to view the results.
    
    ![](media/E3T2S8.png) 
           
@@ -84,13 +84,13 @@ In this, you will add a Resource Graph Grid tile that visualizes the number of s
 
    ![](media/dir.png)
    
-6. Right-click the **Servers** file that contains the script block, and then select **Open with**. In the **How do you want to open this file?** window, choose **Notepad** and click **OK**.
+6. Right-click the **Servers by location chart** file that contains the script block, and then select **Open with**. In the **How do you want to open this file?** window, choose **Notepad** and click **OK**.
 
    ![](media/az-ex3-2.png)
 
    ![](media/Ex2-Task1-Step9b.png)   
       
-7. Copy the **SQL query** from the **Servers** file and replace the sample query in the **Dashboard Query** section with the query you copied.
+7. Copy the **SQL query** from the **Servers by location chart** file and replace the sample query in the **Dashboard Query** section with the query you copied.
  
 8. Click on **Run query (1)** and update the tile to **Charts (2)** and select **Bar chart (3)** in the dashboard then select **Update pinned part on dashboard (4)**. 
      
