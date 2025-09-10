@@ -20,7 +20,7 @@ This task involves creating a centralized dashboard in the Azure Portal to monit
  
 2. On the **Azure portal** home page, from the top left corner, click **Show portal (1)** menu and then select **Dashboard (2)**. 
 
-   ![](media/image.png)   
+   ![](media/image.jpg)   
  
 3. In the **My Dashboard** page, click **+ Create**. 
  
