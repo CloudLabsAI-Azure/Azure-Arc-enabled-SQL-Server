@@ -82,7 +82,7 @@ In this task, you are going to connect your on-prem Hyper-V SQL Server VM to Azu
 
 In this task, you will use the previously copied script inside the sql VM that is hosted in Hyper-V manager to connect to the Azure Arc and register the device.
 
-1. From the start menu of the **sqlvm**, search for **PowerShell (1)**, right click on **Windows PowerShell ISE (2)** and select **Run as administrator (3)**. 
+1. From the start menu of the **sqlvm**, search for **PowerShell (1)**, right click on **Windows PowerShell ISE (2)** then select **Run as administrator (3)**. 
   
    ![](media/az-ex1-3.png) 
    
@@ -122,7 +122,7 @@ In this task, you will use the previously copied script inside the sql VM that i
  
    ![](media/crosspf-continue.png) 
  
-1. In 5-10 minutes, you will see that the script execution is completed and then make sure that you see the following output: **SQL Server is successfully installed** 
+1. In 5-10 minutes, you will see that the script execution is completed and then make sure that you see the following output: **SQL Server is successfully installed**. 
  
    ![](media/sqlsuccess.png) 
 
